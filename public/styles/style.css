@@ -1,0 +1,32 @@
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
+#logo {
+    letter-spacing: 2px;
+    color: #777777;
+}
+
+#cart-header {
+    background-color: #eeeeee;
+    padding-top: 2%;
+}
+
+label {
+    color: #fff;
+}
+
+input[type="text"] {
+    border-radius: 0px;
+}
+
+#text-accent {
+    color: #f95501;
+}
+
+#checkout-btn {
+    background-color: #f95501;
+    width: 100%;
+    border-radius: 0;
+    border-style: none;
+}
