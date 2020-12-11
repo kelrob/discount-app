@@ -3,7 +3,6 @@
 
 ## STEPS
 - Clone this repo on your local machine
-- Unzip the project and CD to the project directory
 - Run `composer install` on your terminal while in the project directory
 - Change the database configuration file in the `.env` file with your preferred credentials
 - Run `php artisan migrate:fresh` to set up records on the database.
